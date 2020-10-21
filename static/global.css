@@ -12612,6 +12612,46 @@ video {
   height: 100vh;
 }
 
+.h-xs {
+  height: 20rem;
+}
+
+.h-sm {
+  height: 24rem;
+}
+
+.h-md {
+  height: 28rem;
+}
+
+.h-lg {
+  height: 32rem;
+}
+
+.h-xl {
+  height: 36rem;
+}
+
+.h-2xl {
+  height: 42rem;
+}
+
+.h-3xl {
+  height: 48rem;
+}
+
+.h-4xl {
+  height: 56rem;
+}
+
+.h-5xl {
+  height: 64rem;
+}
+
+.h-6xl {
+  height: 72rem;
+}
+
 .text-xs {
   font-size: 0.75rem;
 }
@@ -36176,6 +36216,46 @@ video {
     height: 100vh;
   }
 
+  .sm\:h-xs {
+    height: 20rem;
+  }
+
+  .sm\:h-sm {
+    height: 24rem;
+  }
+
+  .sm\:h-md {
+    height: 28rem;
+  }
+
+  .sm\:h-lg {
+    height: 32rem;
+  }
+
+  .sm\:h-xl {
+    height: 36rem;
+  }
+
+  .sm\:h-2xl {
+    height: 42rem;
+  }
+
+  .sm\:h-3xl {
+    height: 48rem;
+  }
+
+  .sm\:h-4xl {
+    height: 56rem;
+  }
+
+  .sm\:h-5xl {
+    height: 64rem;
+  }
+
+  .sm\:h-6xl {
+    height: 72rem;
+  }
+
   .sm\:text-xs {
     font-size: 0.75rem;
   }
@@ -59673,6 +59753,46 @@ video {
 
   .md\:h-screen {
     height: 100vh;
+  }
+
+  .md\:h-xs {
+    height: 20rem;
+  }
+
+  .md\:h-sm {
+    height: 24rem;
+  }
+
+  .md\:h-md {
+    height: 28rem;
+  }
+
+  .md\:h-lg {
+    height: 32rem;
+  }
+
+  .md\:h-xl {
+    height: 36rem;
+  }
+
+  .md\:h-2xl {
+    height: 42rem;
+  }
+
+  .md\:h-3xl {
+    height: 48rem;
+  }
+
+  .md\:h-4xl {
+    height: 56rem;
+  }
+
+  .md\:h-5xl {
+    height: 64rem;
+  }
+
+  .md\:h-6xl {
+    height: 72rem;
   }
 
   .md\:text-xs {
@@ -83174,6 +83294,46 @@ video {
     height: 100vh;
   }
 
+  .lg\:h-xs {
+    height: 20rem;
+  }
+
+  .lg\:h-sm {
+    height: 24rem;
+  }
+
+  .lg\:h-md {
+    height: 28rem;
+  }
+
+  .lg\:h-lg {
+    height: 32rem;
+  }
+
+  .lg\:h-xl {
+    height: 36rem;
+  }
+
+  .lg\:h-2xl {
+    height: 42rem;
+  }
+
+  .lg\:h-3xl {
+    height: 48rem;
+  }
+
+  .lg\:h-4xl {
+    height: 56rem;
+  }
+
+  .lg\:h-5xl {
+    height: 64rem;
+  }
+
+  .lg\:h-6xl {
+    height: 72rem;
+  }
+
   .lg\:text-xs {
     font-size: 0.75rem;
   }
@@ -106671,6 +106831,46 @@ video {
 
   .xl\:h-screen {
     height: 100vh;
+  }
+
+  .xl\:h-xs {
+    height: 20rem;
+  }
+
+  .xl\:h-sm {
+    height: 24rem;
+  }
+
+  .xl\:h-md {
+    height: 28rem;
+  }
+
+  .xl\:h-lg {
+    height: 32rem;
+  }
+
+  .xl\:h-xl {
+    height: 36rem;
+  }
+
+  .xl\:h-2xl {
+    height: 42rem;
+  }
+
+  .xl\:h-3xl {
+    height: 48rem;
+  }
+
+  .xl\:h-4xl {
+    height: 56rem;
+  }
+
+  .xl\:h-5xl {
+    height: 64rem;
+  }
+
+  .xl\:h-6xl {
+    height: 72rem;
   }
 
   .xl\:text-xs {
