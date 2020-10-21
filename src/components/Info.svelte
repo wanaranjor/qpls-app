@@ -25,11 +25,11 @@
 
   <!-- Misión -->
   <div class="flex flex-row my-16 text-gray-800 ">
-    <div class="w-3/5 hidden md:flex justify-center items-center">
+    <div class="hidden md:w-3/5 md:flex justify-center items-center">
       <img src="mision.jpg" alt="quines-somos" class="rounded-md" />
     </div>
     <div
-      class="w-2/5 justify-center items-center flex flex-col bg-cover bg-center"
+      class="w-full md:w-2/5 justify-center items-center flex flex-col bg-cover bg-center"
       style="background-image: url(img.svg)">
       <div>
         <p class="text-4xl text-center py-5">Misión</p>
@@ -47,7 +47,7 @@
   <!-- Visión -->
   <div class="flex flex-row py-16 text-gray-800 ">
     <div
-      class="w-2/5 justify-center items-center flex flex-col bg-cover bg-center"
+      class="w-full md:w-2/5 justify-center items-center flex flex-col bg-cover bg-center"
       style="background-image: url(img.svg)">
       <div>
         <p class="text-4xl text-center py-5">Visión</p>
@@ -61,7 +61,7 @@
         </p>
       </div>
     </div>
-    <div class="w-3/5 hidden md:flex justify-center items-center">
+    <div class="hidden md:w-3/5 md:flex justify-center items-center">
       <img src="vision.jpg" alt="quines-somos" class="rounded-md" />
     </div>
   </div>

@@ -8,7 +8,7 @@
 
 <div class="container mx-auto text-center">
   <h2 class="text-4xl text-gray-800 py-5">Oferta de Servicios</h2>
-  <div class="grid grid-cols-4 gap-5">
+  <div class="grid grid-cols-1 md:grid-cols-4 gap-5 px-5 md:px-0">
     <div class="border p-5 flex flex-col justify-center">
       <ObjectStorage32
         class="fill-current text-orange-500 inline-block h-12 w-12 mx-auto" />
