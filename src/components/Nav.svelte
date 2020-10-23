@@ -37,27 +37,37 @@
         <ul
           class="md:flex items-center justify-between text-md md:text-lg text-gray-800 pt-4 md:pt-0">
           <li class="px-2 hover:text-orange-500">
-            <a href="/" class="inline-block no-underline py-2 md:py-0 px-4">
+            <a
+              href="/#inicio"
+              class="inline-block no-underline py-2 md:py-0 px-4">
               Inicio
             </a>
           </li>
           <li class="px-2 hover:text-orange-500">
-            <a href="/" class="inline-block no-underline py-2 md:py-0 px-4">
+            <a
+              href="#quienes-somos"
+              class="inline-block no-underline py-2 md:py-0 px-4">
               Quienes Somos
             </a>
           </li>
           <li class="px-2 hover:text-orange-500">
-            <a href="/" class="inline-block no-underline py-2 md:py-0 px-4">
+            <a
+              href="/#mision"
+              class="inline-block no-underline py-2 md:py-0 px-4">
               Misión
             </a>
           </li>
           <li class="px-2 hover:text-orange-500">
-            <a href="/" class="inline-block no-underline py-2 md:py-0 px-4">
+            <a
+              href="/#vision"
+              class="inline-block no-underline py-2 md:py-0 px-4">
               Visión
             </a>
           </li>
           <li class="px-2 hover:text-orange-500">
-            <a href="/" class="inline-block no-underline py-2 md:py-0 px-4">
+            <a
+              href="/#servicios"
+              class="inline-block no-underline py-2 md:py-0 px-4">
               Servicios
             </a>
           </li>

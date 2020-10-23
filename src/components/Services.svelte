@@ -6,7 +6,7 @@
   import Rocket20 from "carbon-icons-svelte/lib/Rocket20";
 </script>
 
-<div class="container mx-auto text-center">
+<div id="servicios" class="container mx-auto text-center">
   <h2 class="text-4xl text-gray-800 py-5">Oferta de Servicios</h2>
   <div class="grid grid-cols-1 md:grid-cols-4 gap-5 px-5 md:px-0">
     <div class="border p-5 flex flex-col justify-center">
@@ -19,7 +19,9 @@
         sapiente qui aperiam, adipisci optio! Reiciendis aspernatur facere
         maxime vitae mollitia!
       </p>
-      <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
+      <a href="/services/#storage">
+        <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
+      </a>
     </div>
     <div class="border p-5 flex flex-col justify-center">
       <Rocket20
@@ -31,7 +33,9 @@
         sapiente qui aperiam, adipisci optio! Reiciendis aspernatur facere
         maxime vitae mollitia!
       </p>
-      <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
+      <a href="/services/#migrate">
+        <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
+      </a>
     </div>
     <div class="border p-5 flex flex-col justify-center">
       <DataBaseAlt32
@@ -45,7 +49,9 @@
         sapiente qui aperiam, adipisci optio! Reiciendis aspernatur facere
         maxime vitae mollitia!
       </p>
-      <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
+      <a href="/services/#so">
+        <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
+      </a>
     </div>
     <div class="border p-5 flex flex-col justify-center">
       <VmdkDisk32
@@ -57,7 +63,9 @@
         sapiente qui aperiam, adipisci optio! Reiciendis aspernatur facere
         maxime vitae mollitia!
       </p>
-      <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
+      <a href="/services/#backup">
+        <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
+      </a>
     </div>
   </div>
 </div>

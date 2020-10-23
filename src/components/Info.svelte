@@ -4,7 +4,7 @@
     <div
       class="w-full md:w-2/5 justify-center items-center flex flex-col bg-cover bg-center"
       style="background-image: url(img.svg)">
-      <div>
+      <div id="quienes-somos">
         <p class="text-4xl text-center py-5">Quiénes Somos</p>
         <p class="px-12 text-gray-600 text-xl">
           Somos una empresa Colombiana dedicada a la prestación de servicios de
@@ -31,7 +31,7 @@
     <div
       class="w-full md:w-2/5 justify-center items-center flex flex-col bg-cover bg-center"
       style="background-image: url(img.svg)">
-      <div>
+      <div id="mision">
         <p class="text-4xl text-center py-5">Misión</p>
         <p class="px-12 text-gray-600 text-xl">
           Constituir un grupo de expertos en TI que ofrezca soluciones
@@ -49,7 +49,7 @@
     <div
       class="w-full md:w-2/5 justify-center items-center flex flex-col bg-cover bg-center"
       style="background-image: url(img.svg)">
-      <div>
+      <div id="vision">
         <p class="text-4xl text-center py-5">Visión</p>
         <p class="px-12 text-gray-600 text-xl">
           Convertirnos en la empresa líder en el mercado ofreciendo soluciones

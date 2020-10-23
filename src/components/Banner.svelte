@@ -1,4 +1,5 @@
 <section
+  id="inicio"
   class="bg-cover bg-center h-56 md:h-sm flex items-center"
   style="background-image: url(global.jpg)">
   <div
