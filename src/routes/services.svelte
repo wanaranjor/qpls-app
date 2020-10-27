@@ -1,5 +1,5 @@
 <script>
-  import Banner from "../../components/Banner.svelte";
+  import Banner from "../components/Banner.svelte";
   import ObjectStorage32 from "carbon-icons-svelte/lib/ObjectStorage32";
   // import AddAlt32 from "carbon-icons-svelte/lib/AddAlt32";
   import VmdkDisk32 from "carbon-icons-svelte/lib/VmdkDisk32";
@@ -163,7 +163,7 @@
       </div>
     </div>
     <div class="w-full flex items-center">
-      <img src="logos.png" alt="logos" />
+      <img src="logos.webp" alt="logos" />
     </div>
   </div>
 
@@ -171,7 +171,7 @@
     id="migrate"
     class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-5 py-6 justify-center sm:py-12">
     <div class="w-full flex items-center">
-      <img src="logos2.png" alt="logos" />
+      <img src="logos2.webp" alt="logos" />
     </div>
     <div class="relative py-3 max-w-xs sm:max-w-md mx-auto">
       <div
@@ -461,7 +461,7 @@
       </div>
     </div>
     <div class="w-full flex items-center">
-      <img src="logos3.png" alt="logos" />
+      <img src="logos3.webp" alt="logos" />
     </div>
   </div>
 
@@ -469,7 +469,7 @@
     id="backup"
     class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-5 py-6 justify-center sm:py-12">
     <div class="w-full flex items-center">
-      <img src="logos4.png" alt="logos" />
+      <img src="logos4.webp" alt="logos" />
     </div>
     <div class="relative py-3 max-w-xs sm:max-w-md mx-auto">
       <div

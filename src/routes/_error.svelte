@@ -1,40 +1,24 @@
 <script>
-	export let status;
-	export let error;
-
-	const dev = process.env.NODE_ENV === 'development';
+  export let status;
+  export let error;
+  const dev = process.env.NODE_ENV === "development";
 </script>
 
-<style>
-	h1, p {
-		margin: 0 auto;
-	}
-
-	h1 {
-		font-size: 2.8em;
-		font-weight: 700;
-		margin: 0 0 0.5em 0;
-	}
-
-	p {
-		margin: 1em auto;
-	}
-
-	@media (min-width: 480px) {
-		h1 {
-			font-size: 4em;
-		}
-	}
-</style>
-
 <svelte:head>
-	<title>{status}</title>
+  <title>QPLS</title>
 </svelte:head>
 
-<h1>{status}</h1>
-
-<p>{error.message}</p>
-
-{#if dev && error.stack}
-	<pre>{error.stack}</pre>
-{/if}
+<div class="h-screen w-screen">
+  <div class="container mx-auto h-full flex justify-center items-center">
+    <div
+      class="flex flex-col text-xl sm:text-3xl text-center font-semibold items-center text-gray-800">
+      <p class="py-3">QUALITY PROFESSIONAL SERVICES SAS</p>
+      <p class="py-3">Algo anda mal...</p>
+      <img class="fill-current w-1/2 py-3" src="404.svg" alt="404" />
+      <p class="py-3 text-base sm:text-2xl">{status} {error.message}</p>
+      <a
+        class="bg-orange-500 border-orange-500 hover:bg-orange-700 hover:border-orange-700 rounded-full border text-white px-3 py-2 text-base"
+        href="/">Volver</a>
+    </div>
+  </div>
+</div>

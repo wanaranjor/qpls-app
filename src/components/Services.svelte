@@ -13,12 +13,12 @@
       <ObjectStorage32
         class="fill-current text-orange-500 inline-block h-12 w-12 mx-auto" />
       <p class="py-3 text-bold text-2xl text-gray-800">Almacenamiento</p>
-      <p class="py-3 text-gray-600">
+      <!-- <p class="py-3 text-gray-600">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed
         doloribus maxime dolorum, facere sit aliquam, minima non corporis
         sapiente qui aperiam, adipisci optio! Reiciendis aspernatur facere
         maxime vitae mollitia!
-      </p>
+      </p> -->
       <a href="/services/#storage">
         <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
       </a>
@@ -27,12 +27,12 @@
       <Rocket20
         class="fill-current text-orange-500 inline-block h-12 w-12 mx-auto" />
       <p class="py-3 text-bold text-2xl text-gray-800">Migración</p>
-      <p class="py-3 text-gray-600">
+      <!-- <p class="py-3 text-gray-600">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed
         doloribus maxime dolorum, facere sit aliquam, minima non corporis
         sapiente qui aperiam, adipisci optio! Reiciendis aspernatur facere
         maxime vitae mollitia!
-      </p>
+      </p> -->
       <a href="/services/#migrate">
         <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
       </a>
@@ -43,12 +43,12 @@
       <p class="py-3 text-bold text-2xl text-gray-800 leading-tight">
         Sistemas Operativos
       </p>
-      <p class="py-3 text-gray-600">
+      <!-- <p class="py-3 text-gray-600">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed
         doloribus maxime dolorum, facere sit aliquam, minima non corporis
         sapiente qui aperiam, adipisci optio! Reiciendis aspernatur facere
         maxime vitae mollitia!
-      </p>
+      </p> -->
       <a href="/services/#so">
         <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
       </a>
@@ -57,12 +57,12 @@
       <VmdkDisk32
         class="fill-current text-orange-500 inline-block h-12 w-12 mx-auto" />
       <p class="py-3 text-bold text-2xl text-gray-800">Backup</p>
-      <p class="py-3 text-gray-600">
+      <!-- <p class="py-3 text-gray-600">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed
         doloribus maxime dolorum, facere sit aliquam, minima non corporis
         sapiente qui aperiam, adipisci optio! Reiciendis aspernatur facere
         maxime vitae mollitia!
-      </p>
+      </p> -->
       <a href="/services/#backup">
         <AddAlt32 class="fill-current text-orange-500 inline-block mx-auto" />
       </a>

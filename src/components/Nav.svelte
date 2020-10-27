@@ -71,6 +71,13 @@
               Servicios
             </a>
           </li>
+          <li class="px-2 hover:text-orange-500">
+            <a
+              href="/#clientes"
+              class="inline-block no-underline py-2 md:py-0 px-4">
+              Clientes
+            </a>
+          </li>
         </ul>
       </nav>
     </div>

@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="hidden md:w-3/5 md:flex justify-center items-center">
-      <img src="quienes-somos.jpg" alt="quines-somos" class="rounded-md" />
+      <img src="quienes-somos.webp" alt="quines-somos" class="rounded-md" />
     </div>
   </div>
   <!-- Quienes Somos -->
@@ -26,7 +26,7 @@
   <!-- Misión -->
   <div class="flex flex-row my-16 text-gray-800 ">
     <div class="hidden md:w-3/5 md:flex justify-center items-center">
-      <img src="mision.jpg" alt="quines-somos" class="rounded-md" />
+      <img src="mision.webp" alt="quines-somos" class="rounded-md" />
     </div>
     <div
       class="w-full md:w-2/5 justify-center items-center flex flex-col bg-cover bg-center"
@@ -62,7 +62,7 @@
       </div>
     </div>
     <div class="hidden md:w-3/5 md:flex justify-center items-center">
-      <img src="vision.jpg" alt="quines-somos" class="rounded-md" />
+      <img src="vision.webp" alt="quines-somos" class="rounded-md" />
     </div>
   </div>
   <!-- Visión -->
