@@ -64,13 +64,13 @@
               Visión
             </a>
           </li>
-          <li class="px-2 hover:text-orange-500">
+          <!-- <li class="px-2 hover:text-orange-500">
             <a
               href="/#servicios"
               class="inline-block no-underline py-2 md:py-0 px-4">
               Servicios
             </a>
-          </li>
+          </li> -->
           <li class="px-2 hover:text-orange-500">
             <a
               href="/#clientes"

@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>QPLS</title>
+	<title>Quality Professional Services SAS</title>
 </svelte:head>
 
 <Nav {segment} />

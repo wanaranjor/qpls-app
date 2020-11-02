@@ -1,5 +1,4 @@
 <script>
-  import Banner from "../components/Banner.svelte";
   import ObjectStorage32 from "carbon-icons-svelte/lib/ObjectStorage32";
   // import AddAlt32 from "carbon-icons-svelte/lib/AddAlt32";
   import VmdkDisk32 from "carbon-icons-svelte/lib/VmdkDisk32";
@@ -7,8 +6,8 @@
   import Rocket20 from "carbon-icons-svelte/lib/Rocket20";
 </script>
 
-<Banner />
-<div class="bg-gray-100">
+<div class="bg-gray-100 ">
+  <p class="text-4xl text-center text-gray-800 py-5">Nuestros Servicios</p>
   <div
     id="storage"
     class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-5 py-6 justify-center sm:py-12">
